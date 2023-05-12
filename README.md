@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/OADxSFM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WcEYwq2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The first step is to install the resource group in Azure for the virtual machine to reside in. 
