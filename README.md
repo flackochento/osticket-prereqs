@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/WcEYwq2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The first step is to install the resource group in Azure for the virtual machine to reside in. 
+The first step is to install the resource group in Azure followed by the virtual machine. Once created, we can begin to install the files neccessary for osticket inside of the virtual machine.
 </p>
 <br />
 
